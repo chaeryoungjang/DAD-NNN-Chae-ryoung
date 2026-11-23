@@ -27,7 +27,7 @@
 ### Projet 1
 
 #### Sujet du projet
-- **Titre du projet :** Trace Synthesizer (titre provisoire)
+- **Titre du projet :** Trace Synthesizer 
 - **Description du projet (environ 150 mots) :** Ce projet explore la notion de « trace » (traces architecturales, humaines ou naturelles) à travers la création d'un site web interactif fonctionnant comme une « édition participative » et un traducteur sensoriel. À partir d'une collecte de textures issues de traces réelles, l'utilisateur est invité à manipuler et frotter la matière à l'écran. Cette interaction génère de manière procédurale des formes géométriques et typographiques, tout en produisant des sons (bruits, ondes) liés aux caractéristiques de la texture. L'objectif est d'observer comment le geste de lecture et de manipulation laisse une empreinte numérique collective.
 
 #### Thématiques de recherche
